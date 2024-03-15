@@ -1,0 +1,20 @@
+[
+  {
+    "institution": "Kishoreganj Govt. Boys High School",
+    "startDate": "Jan, 2012",
+    "endDate": "Apr, 2016",
+    "imageSrc": "history/govt.png"
+  },
+  {
+    "institution": "Gurudoyal Govt. College",
+    "startDate": "Jul, 2016",
+    "endDate": "Jun, 2018",
+    "imageSrc": "history/guru.png"
+  },
+  {
+    "institution": "Rajshahi University of Engineering & Technology",
+    "startDate": "Feb, 2019",
+    "endDate": "Apr, 2024",
+    "imageSrc": "history/ruet.png"
+  }
+]

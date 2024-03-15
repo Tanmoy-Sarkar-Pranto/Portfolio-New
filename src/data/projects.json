@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Online Store",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project where I created an online store, like ecommerce website with register and login functionality",
+    "skills": ["React", "Redux Toolkit"],
+    "demo": "https://online-store-qre0.onrender.com/",
+    "source": "https://github.com/Tanmoy-Sarkar-Pranto/Online-Store"
+  },
+  {
+    "title": "Cocktail Recipe",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the fundamentals of React.js",
+    "skills": ["React"],
+    "demo": "https://cocktails-react.onrender.com/",
+    "source": "https://github.com/Tanmoy-Sarkar-Pranto/Cocktails-React"
+  },
+  {
+    "title": "Privnote",
+    "imageSrc": "projects/project.png",
+    "description": "This is a note taking app made with flutter.",
+    "skills": ["Flutter", "Firebase"],
+    "demo": "",
+    "source": "https://github.com/Tanmoy-Sarkar-Pranto/privnotes"
+  }
+]
